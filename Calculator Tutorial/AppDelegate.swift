@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  Calculator Tutorial
 //
-//  Created by Cal on 10/14/15.
-//  Copyright © 2015 Cal. All rights reserved.
-//
 
 import UIKit
 
